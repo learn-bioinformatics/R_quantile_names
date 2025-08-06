@@ -1,8 +1,8 @@
-# R_quantile_names
+# quantile_names.R
 
 This will eventually be an R package, but for now source it within your R script:
 
-    source("R_quantile_names.R")
+    source("quantile_names.R")
 
     print(quantile_names(c(1:29), n = 7))
     
